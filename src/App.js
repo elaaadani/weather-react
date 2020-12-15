@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+import React from "react";
+import "./styles.css";
 import Weatherapp from "./Weatherapp";
 import './App.css';
 
@@ -11,4 +12,5 @@ function App() {
   );
 }
 
-export default App;
+
+
