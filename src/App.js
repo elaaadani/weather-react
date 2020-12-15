@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import Weather from "./Weather";
 import './App.css';
 
 function App() {
@@ -9,6 +10,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+
+        <h1>Hello !</h1>
+        <Weather/>
         <a
           className="App-link"
           href="https://reactjs.org"
